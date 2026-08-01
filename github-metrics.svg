@@ -1,0 +1,23 @@
+<svg width="720" height="230" viewBox="0 0 720 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub profile metrics preview</title>
+  <desc id="desc">Initial metrics card for Arpit Tyagi before the automated metrics workflow refreshes the file.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#10243A"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="230" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="718" height="228" rx="17" stroke="#30363D" stroke-width="2"/>
+  <text x="36" y="54" fill="#58A6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="1">PROFILE METRICS</text>
+  <text x="36" y="92" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="800">Arpit Tyagi</text>
+  <text x="36" y="126" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">Build. Analyze. Optimize. Turning data into decisions.</text>
+  <rect x="36" y="158" width="138" height="38" rx="19" fill="#58A6FF" fill-opacity="0.13" stroke="#58A6FF" stroke-opacity="0.38"/>
+  <text x="105" y="183" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Analytics</text>
+  <rect x="190" y="158" width="118" height="38" rx="19" fill="#FF9900" fill-opacity="0.13" stroke="#FF9900" stroke-opacity="0.38"/>
+  <text x="249" y="183" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">BI</text>
+  <rect x="324" y="158" width="122" height="38" rx="19" fill="#F0F6FC" fill-opacity="0.08" stroke="#30363D"/>
+  <text x="385" y="183" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Cloud</text>
+  <rect x="462" y="158" width="154" height="38" rx="19" fill="#58A6FF" fill-opacity="0.13" stroke="#58A6FF" stroke-opacity="0.38"/>
+  <text x="539" y="183" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Engineering</text>
+</svg>

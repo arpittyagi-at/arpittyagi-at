@@ -1,0 +1,23 @@
+<svg width="980" height="170" viewBox="0 0 980 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution activity visualization</title>
+  <desc id="desc">A local dark contribution activity strip used as a reliable fallback while the automated snake workflow publishes generated assets.</desc>
+  <defs>
+    <linearGradient id="trail" x1="80" y1="86" x2="900" y2="86" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="0.28" stop-color="#58A6FF"/>
+      <stop offset="0.72" stop-color="#FF9900"/>
+      <stop offset="1" stop-color="#FF9900" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-80 0; 80 0; -80 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="cells" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect x="4" y="4" width="12" height="12" rx="3" fill="#F0F6FC" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="980" height="170" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="978" height="168" rx="17" stroke="#30363D" stroke-width="2"/>
+  <rect x="42" y="34" width="896" height="96" fill="url(#cells)"/>
+  <path d="M73 93C154 54 228 61 307 86C386 111 463 130 548 96C633 62 708 37 798 64C841 77 876 99 916 91" stroke="url(#trail)" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="916" cy="91" r="12" fill="#FF9900"/>
+  <path d="M908 85L919 91L908 97" stroke="#0D1117" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="490" y="151" text-anchor="middle" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Contribution automation is configured in .github/workflows/snake.yml</text>
+</svg>

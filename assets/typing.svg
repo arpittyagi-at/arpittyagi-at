@@ -1,0 +1,28 @@
+<svg width="760" height="44" viewBox="0 0 760 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Build Analyze Optimize</title>
+  <desc id="desc">Animated text cycling through the personal brand Build, Analyze, Optimize, and Turning data into decisions.</desc>
+  <style>
+    text { font-family: Inter, Segoe UI, Arial, sans-serif; font-size: 22px; font-weight: 700; }
+    .muted { fill: #8B949E; }
+    .blue { fill: #58A6FF; }
+    .orange { fill: #FF9900; }
+    .item { opacity: 0; }
+    .i1 { animation: show 12s infinite; }
+    .i2 { animation: show 12s infinite 2.4s; }
+    .i3 { animation: show 12s infinite 4.8s; }
+    .i4 { animation: show 12s infinite 7.2s; }
+    .i5 { animation: show 12s infinite 9.6s; }
+    @keyframes show {
+      0%, 15% { opacity: 0; transform: translateY(8px); }
+      20%, 36% { opacity: 1; transform: translateY(0); }
+      42%, 100% { opacity: 0; transform: translateY(-8px); }
+    }
+  </style>
+  <rect width="760" height="44" rx="22" fill="#0D1117"/>
+  <rect x="1" y="1" width="758" height="42" rx="21" stroke="#30363D" stroke-width="2"/>
+  <text x="380" y="30" text-anchor="middle" class="item i1 blue">Build.</text>
+  <text x="380" y="30" text-anchor="middle" class="item i2 blue">Analyze.</text>
+  <text x="380" y="30" text-anchor="middle" class="item i3 orange">Optimize.</text>
+  <text x="380" y="30" text-anchor="middle" class="item i4 blue">Turning data into decisions.</text>
+  <text x="380" y="30" text-anchor="middle" class="item i5 muted">Data. Engineering. Insight.</text>
+</svg>

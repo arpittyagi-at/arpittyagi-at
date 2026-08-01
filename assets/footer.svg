@@ -1,0 +1,16 @@
+<svg width="1280" height="92" viewBox="0 0 1280 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile footer</title>
+  <desc id="desc">A minimal animated footer for Arpit Tyagi's GitHub profile with the Build Analyze Optimize brand line.</desc>
+  <defs>
+    <linearGradient id="line" x1="280" y1="46" x2="1000" y2="46" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#58A6FF"/>
+      <stop offset="0.75" stop-color="#FF9900"/>
+      <stop offset="1" stop-color="#FF9900" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-120 0; 120 0; -120 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="92" fill="#0D1117"/>
+  <path d="M280 45.5H1000" stroke="url(#line)" stroke-width="2" stroke-linecap="round"/>
+  <text x="640" y="62" text-anchor="middle" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">Build. Analyze. Optimize. Turning data into decisions.</text>
+</svg>
