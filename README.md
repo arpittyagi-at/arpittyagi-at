@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Build. Analyze. Optimize.</strong><br />
-  Turning data into decisions through analytics projects, BI dashboards, Python workflows, SQL analysis, and cloud-aware engineering.
+  Turning data into decisions through Python, SQL, Power BI, analytics projects, and cloud-aware engineering.
 </p>
 
 <p align="center">
@@ -23,25 +23,17 @@
   <img src="./assets/typing.svg" alt="Build, analyze, optimize, turn data into decisions" width="760" />
 </p>
 
-## Profile
+## About Me
 
 <p align="center">
-  <img src="./assets/profile.svg" alt="Arpit Tyagi profile mark" width="132" />
+  <img src="./assets/profile.svg" alt="Arpit Tyagi profile mark" width="128" />
 </p>
 
-I am a B.Tech 2027 student at SRM Institute of Science and Technology, based in Delhi, India. My profile is built around a simple operating line: build useful systems, analyze the data they produce, and optimize decisions from the evidence.
+I am a B.Tech 2027 student at SRM Institute of Science and Technology, based in Delhi, India. I build analytics-focused software projects that turn raw datasets into clear business conclusions through Python notebooks, SQL analysis, Power BI dashboards, and structured reporting.
 
-My strongest direction is the analytics engineering path: structured datasets, SQL analysis, Python notebooks, BI dashboards, and clear recommendations.
+My current direction is data analytics and analytics engineering: clean data, define useful metrics, explain patterns, and make the output easy for decision-makers to use.
 
-**Current focus**
-
-- **Data analytics:** churn analysis, marketplace analytics, KPI design, dashboard storytelling.
-- **Python and SQL:** data cleaning, exploratory analysis, reusable queries, reproducible notebooks.
-- **Business intelligence:** Power BI reporting, stakeholder metrics, insight summaries.
-- **Cloud fundamentals:** AWS basics, deployment awareness, data workflow fundamentals.
-- **Problem solving:** DSA practice through LeetCode and structured implementation habits.
-
-## Core Stack
+## Tech Stack
 
 <p align="center">
   <img src="./assets/icons/python.svg" alt="Python" width="54" />
@@ -56,55 +48,53 @@ My strongest direction is the analytics engineering path: structured datasets, S
   <img src="./assets/icons/vscode.svg" alt="VS Code" width="54" />
 </p>
 
-## Selected Work
+## Featured Projects
 
 ### [Bank Customer Churn Analysis](https://github.com/arpittyagi-at/bank-customer-churn-analysis)
 
-Customer churn analytics case study for a banking product. The project is positioned around retention risk, customer segmentation, churn indicators, and dashboard-ready business recommendations.
+Customer churn analytics case study for a banking product, focused on retention risk, customer segmentation, churn indicators, and dashboard-ready business recommendations.
 
 `Python` `Pandas` `NumPy` `SQL` `Power BI`
 
 ### [Ecommerce Marketplace Analytics](https://github.com/arpittyagi-at/ecommerce-marketplace-analytics)
 
-Marketplace analysis focused on orders, revenue, product categories, fulfillment patterns, and customer behavior. The goal is to turn transactional data into operating metrics a business team can use.
+Marketplace analytics project for orders, revenue, product categories, fulfillment patterns, and customer behavior, designed to turn transaction data into operating metrics.
 
 `Python` `SQL` `Pandas` `Power BI`
 
 ### [Arpit Tyagi Portfolio](https://github.com/arpittyagi-at/arpit-tyagi-portfolio)
 
-Personal portfolio site for presenting projects, technical direction, and professional links through a clean responsive web experience.
+Personal portfolio site presenting projects, skills, and professional links through a clean responsive interface.
 
 `Frontend` `Vercel` `GitHub` `UI Engineering`
 
 ### [TaskManager ArpitTyagi](https://github.com/arpittyagi-at/TaskManager-ArpitTyagi)
 
-Task management application demonstrating CRUD workflows, task state, clean interface states, and practical frontend structure.
+Task management application demonstrating CRUD flows, task state, clean interface states, and practical frontend structure.
 
 `JavaScript` `Web App` `CRUD` `Responsive UI`
 
 ### [Mini E-Commerce Website](https://github.com/arpittyagi-at/Mini_E-Commerce_Website-ArpitTyagi)
 
-Compact storefront project with product cards, cart-oriented interactions, and responsive ecommerce layout fundamentals.
+Compact storefront project with product cards, cart interactions, and responsive ecommerce layout fundamentals.
 
 `HTML` `CSS` `JavaScript` `Frontend`
 
-## GitHub Activity
+## GitHub Stats
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub profile metrics for Arpit Tyagi" width="720" />
 </p>
 
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpittyagi-at&bg_color=0D1117&color=F0F6FC&line=58A6FF&point=FF9900&area=true&hide_border=true" alt="GitHub activity graph for Arpit Tyagi" width="100%" />
+</p>
+
 <p align="center">
   <img src="./assets/contribution-snake.svg" alt="Contribution activity visualization" width="100%" />
 </p>
-
-## Signals
-
-- **Analytics direction:** banking churn and marketplace analytics repositories are the first projects shown.
-- **Recruiter readability:** project descriptions lead with business context before tools.
-- **Engineering discipline:** repository templates include architecture, setup, results, and improvement paths.
-- **Learning trajectory:** AWS fundamentals and DSA practice support the analytics engineering direction.
-- **Personal brand:** Build. Analyze. Optimize. is the through-line across projects, README copy, and visual assets.
 
 ## Connect
 
@@ -114,5 +104,5 @@ Compact storefront project with product cards, cart-oriented interactions, and r
 - [Kaggle](https://www.kaggle.com/arpittyagiat)
 
 <p align="center">
-  <img src="./assets/footer.svg" alt="Minimal animated footer" width="100%" />
+  <img src="./assets/footer.svg" alt="Build. Analyze. Optimize. Turning data into decisions." width="100%" />
 </p>
